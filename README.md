@@ -2,7 +2,17 @@ Building small, focused tools that aim for ergonomics, composability, and minima
 
 ---
 
-## 🧰 Typescript – Lickle
+## ⚙️ Rust Libraries
+
+- [arrow-encoder](https://github.com/Pingid/arrow-encoder) – Encode row-oriented data into Apache Arrow RecordBatch.
+- [fsync](https://github.com/Pingid/fsync) – Fast, multithreaded file synchronisation.
+- [rizzup](https://github.com/Pingid/rizzup) – Composable TUI framework for building [ratatui](https://github.com/ratatui/ratatui) interfaces.
+- [json-schema-derive](https://github.com/Pingid/json-schema-derive) – JSON Schema derive macro with arbitrary fields support.
+- [join](https://github.com/Pingid/join) – Concatenate files to markdown
+
+---
+
+## 🧰 Typescript Libraries
 
 A suite of tiny utility libraries built for ergonomics and platform independence.
 
@@ -12,12 +22,15 @@ A suite of tiny utility libraries built for ergonomics and platform independence
 - [@lickle/log](https://github.com/Pingid/lickle-log) – Structured logging with metadata and pluggable transports.
 - [@lickle/dom](https://github.com/Pingid/lickle-dom) – Simplified, declarative DOM event handling.
 
----
+Assorted utility libraries.
 
-## ⚙️ Rust Libraries
-
-- [fsync](https://github.com/Pingid/fsync) – Fast, multithreaded file synchronisation.
-- [rizzup](https://github.com/Pingid/rizzup) – Composable TUI framework for building [ratatui](https://github.com/ratatui/ratatui) interfaces.
+- [prettier-plugin-sort-imports](https://github.com/Pingid/prettier-plugin-sort-imports) – A tiny Prettier plugin that keeps your import statements tidy.
+- [ts-gen](https://github.com/Pingid/ts-gen) – Dynamically generate typescript types from collections of unstructered data.
+  Aws typescript types for cloudformation resources
+- [ts-aws](https://github.com/Pingid/ts-aws) – Aws typescript types for cloudformation resources.
+  Aws typescript types for cloudformation resources
+- [mini-rx](https://github.com/Pingid/mini-rx) - A minimal rx observable library
+- [shears](https://github.com/Pingid/shears) - Functional web scraping in typescript
 
 ---
 
