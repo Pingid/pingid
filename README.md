@@ -4,6 +4,7 @@ Building small, focused tools that aim for ergonomics, composability, and minima
 
 ## ⚙️ Rust Libraries
 
+- [millrun](https://github.com/Pingid/millrun) – Library for building partioned apache arrow datalakes.
 - [arrow-encoder](https://github.com/Pingid/arrow-encoder) – Encode row-oriented data into Apache Arrow RecordBatch.
 - [fsync](https://github.com/Pingid/fsync) – Fast, multithreaded file synchronisation.
 - [rizzup](https://github.com/Pingid/rizzup) – Composable TUI framework for building [ratatui](https://github.com/ratatui/ratatui) interfaces.
@@ -24,6 +25,7 @@ A suite of tiny utility libraries built for ergonomics and platform independence
 
 Assorted utility libraries.
 
+- [monaco-lsp-bridge](https://github.com/Pingid/monaco-lsp-bridge) - Lightweight Monaco–LSP bridge with JSON-RPC transport
 - [prettier-plugin-sort-imports](https://github.com/Pingid/prettier-plugin-sort-imports) – A tiny Prettier plugin that keeps your import statements tidy.
 - [ts-gen](https://github.com/Pingid/ts-gen) – Dynamically generate typescript types from collections of unstructered data.
   Aws typescript types for cloudformation resources
