@@ -5,6 +5,7 @@ Building small, focused tools that aim for ergonomics, composability, and minima
 ## ⚙️ Rust Libraries
 
 - [millrun](https://github.com/Pingid/millrun) – Library for building partioned apache arrow datalakes.
+- [docloom](https://github.com/Pingid/docloom) - Library for building and rendering documents to markdown and styled terminal output.
 - [arrow-encoder](https://github.com/Pingid/arrow-encoder) – Encode row-oriented data into Apache Arrow RecordBatch.
 - [fsync](https://github.com/Pingid/fsync) – Fast, multithreaded file synchronisation.
 - [rizzup](https://github.com/Pingid/rizzup) – Composable TUI framework for building [ratatui](https://github.com/ratatui/ratatui) interfaces.
