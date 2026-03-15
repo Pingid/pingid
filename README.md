@@ -5,8 +5,9 @@ Building small, focused tools that aim for ergonomics, composability, and minima
 ## ⚙️ Rust Libraries
 
 - [itemize](https://github.com/Pingid/itemize) – Derive macros for flexible input handling for APIs accepting single values, tuples, or collections.
-- [millrun](https://github.com/Pingid/millrun) – Build partioned apache arrow datalakes.
 - [docloom](https://github.com/Pingid/docloom) - Library for rendering markdown and styled terminal output.
+- [querent](https://github.com/Pingid/querent) - A lightweight, context-aware SQL autocompletion engine
+- [millrun](https://github.com/Pingid/millrun) – Build partioned apache arrow datalakes.
 - [arrow-encoder](https://github.com/Pingid/arrow-encoder) – Encode row-oriented data into Apache Arrow RecordBatch.
 - [fsync](https://github.com/Pingid/fsync) – Fast, multithreaded file synchronisation.
 - [rizzup](https://github.com/Pingid/rizzup) – Composable TUI framework for building [ratatui](https://github.com/ratatui/ratatui) interfaces.
@@ -19,10 +20,11 @@ Building small, focused tools that aim for ergonomics, composability, and minima
 
 A suite of tiny utility libraries built for ergonomics and platform independence.
 
+- [@lickle/lock](https://github.com/Pingid/lickle-lock) – File-based locking for Node.js
 - [@lickle/bin](https://github.com/Pingid/lickle-bin) – Binary data schema definition and JS ↔ Uint8Array encoding/decoding.
+- [@lickle/rx](https://github.com/Pingid/lickle-rx) – A minimal reactive programming library with Observables, Subjects, and composable
 - [@lickle/cn](https://github.com/Pingid/lickle-cn) – Conditional className joining with zero overhead.
 - [@lickle/trace](https://github.com/Pingid/lickle-trace) – Structured tracing utility, inspired by Rust's tracing crate.
-- [@lickle/log](https://github.com/Pingid/lickle-log) – Structured logging with metadata and pluggable transports.
 - [@lickle/dom](https://github.com/Pingid/lickle-dom) – Simplified, declarative DOM event handling.
 
 Assorted utility libraries.
@@ -33,7 +35,6 @@ Assorted utility libraries.
   Aws typescript types for cloudformation resources
 - [ts-aws](https://github.com/Pingid/ts-aws) – Aws typescript types for cloudformation resources.
   Aws typescript types for cloudformation resources
-- [mini-rx](https://github.com/Pingid/mini-rx) - A minimal rx observable library
 - [shears](https://github.com/Pingid/shears) - Functional web scraping in typescript
 
 ---
