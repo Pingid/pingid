@@ -36,7 +36,7 @@ Assorted utility libraries.
   Aws typescript types for cloudformation resources
 - [ts-aws](https://github.com/Pingid/ts-aws) – Aws typescript types for cloudformation resources.
   Aws typescript types for cloudformation resources
-- [mini-rx](https://github.com/Pingid/mini-rx) - A minimal rx observable library
+- [mini-rx](https://github.com/Pingid/mini-rx) – A minimal rx observable library
 - [shears](https://github.com/Pingid/shears) - Functional web scraping in typescript
 
 ---
