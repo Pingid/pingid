@@ -25,6 +25,7 @@ A suite of tiny utility libraries built for ergonomics and platform independence
 - [@lickle/rx](https://github.com/Pingid/lickle-rx) – A minimal reactive programming library with Observables, Subjects, and composable
 - [@lickle/cn](https://github.com/Pingid/lickle-cn) – Conditional className joining with zero overhead.
 - [@lickle/trace](https://github.com/Pingid/lickle-trace) – Structured tracing utility, inspired by Rust's tracing crate.
+- [@lickle/log](https://github.com/Pingid/lickle-log) – Structured logging with metadata and pluggable transports.
 - [@lickle/dom](https://github.com/Pingid/lickle-dom) – Simplified, declarative DOM event handling.
 
 Assorted utility libraries.
@@ -35,6 +36,7 @@ Assorted utility libraries.
   Aws typescript types for cloudformation resources
 - [ts-aws](https://github.com/Pingid/ts-aws) – Aws typescript types for cloudformation resources.
   Aws typescript types for cloudformation resources
+- [mini-rx](https://github.com/Pingid/mini-rx) - A minimal rx observable library
 - [shears](https://github.com/Pingid/shears) - Functional web scraping in typescript
 
 ---
