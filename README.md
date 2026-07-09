@@ -28,6 +28,7 @@ A suite of tiny utility libraries built for ergonomics and platform independence
 - [@lickle/cn](https://github.com/Pingid/lickle-cn) – Conditional className joining with zero overhead.
 - [@lickle/trace](https://github.com/Pingid/lickle-trace) – Structured tracing utility, inspired by Rust's tracing crate.
 - [@lickle/dom](https://github.com/Pingid/lickle-dom) – Simplified, declarative DOM event handling.
+- [@lickle/docs](https://github.com/Pingid/lickle-docs) – Type-safe documentation metadata and schema utilities.
 
 Assorted utility libraries.
 
