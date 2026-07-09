@@ -33,10 +33,8 @@ Assorted utility libraries.
 - [monaco-lsp-bridge](https://github.com/Pingid/monaco-lsp-bridge) - Lightweight Monaco–LSP bridge with JSON-RPC transport
 - [prettier-plugin-sort-imports](https://github.com/Pingid/prettier-plugin-sort-imports) – A tiny Prettier plugin that keeps your import statements tidy.
 - [ts-gen](https://github.com/Pingid/ts-gen) – Dynamically generate typescript types from collections of unstructered data.
-  Aws typescript types for cloudformation resources
 - [ts-aws](https://github.com/Pingid/ts-aws) – Aws typescript types for cloudformation resources.
-  Aws typescript types for cloudformation resources
-- [mini-rx](https://github.com/Pingid/mini-rx) – A minimal rx observable library
+- [mini-rx](https://github.com/Pingid/mini-rx) – A lightweight Rx-style observable library for TypeScript.
 - [shears](https://github.com/Pingid/shears) - Functional web scraping in typescript
 
 ---
